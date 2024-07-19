@@ -1,3 +1,3 @@
 # hidden-refs-test
 
-Merged change
+Merged and deleted branch
